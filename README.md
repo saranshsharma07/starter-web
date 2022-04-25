@@ -5,7 +5,9 @@ This is a simple website project for github practise
 Adding introduction
 
 ## Purpose
+Added purpose
 
 ## Deployment
+Added deplyoment
 
 ## How To Conttribute
